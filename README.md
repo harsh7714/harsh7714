@@ -70,48 +70,6 @@ harsh = {
 
 ---
 
-# 🚀 Featured Projects
-
-### 🎥 Smart CCTV AI Surveillance
-
-An AI-powered surveillance system that detects suspicious activity using computer vision models.
-
-**Tech Used**
-
-Python • OpenCV • YOLO • Web Dashboard
-
----
-
-### 🌐 Developer Portfolio Website
-
-A personal website showcasing projects, skills, and experiments.
-
-🔗 **Live**
-
-https://dev-harsh.netlify.app/
-
----
-
-### 📰 News Web Application
-
-A web application that fetches real-time news using APIs and displays them through a responsive UI.
-
-**Tech**
-
-JavaScript • APIs • Web UI
-
----
-
-### 🛒 Online Marketplace Platform
-
-A web-based marketplace system for managing products and users.
-
-**Tech**
-
-JavaScript • Backend APIs • Web Interface
-
----
-
 # 🛠️ Tech Stack
 
 <div align="center">
