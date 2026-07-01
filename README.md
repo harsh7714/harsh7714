@@ -112,25 +112,6 @@ An **AI-powered Personal Health Record (PHR) platform** that centralizes medical
 
 ---
 
-# 🌱 Currently Working On
-
-- 🚨 Expanding Smart CCTV into a modular AI-powered threat detection platform
-- ❤️ Enhancing HealthyBe with advanced AI-driven medical document understanding
-- 📚 Learning advanced Computer Vision and scalable backend architecture
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh7714&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh7714&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -142,28 +123,6 @@ An **AI-powered Personal Health Record (PHR) platform** that centralizes medical
 
 ---
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh7714&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh7714/harsh7714/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/harsh7714/harsh7714/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 # 🌐 Connect
 
