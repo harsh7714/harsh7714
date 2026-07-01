@@ -2,150 +2,188 @@
 
 # Harsh Raj Gupta
 
-### Full Stack Developer • Computer Vision Developer
+### Full Stack Developer • Computer Vision • AI Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Computer+Vision+Projects;React+%7C+Node.js+%7C+Python;Building+Real-world+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+AI-powered+Applications;Computer+Vision+with+YOLO+%26+OpenCV;Learning.+Building.+Improving."/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=harsh7714&style=flat-square&color=0e75b6" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I'm a Computer Science (AI) undergraduate passionate about building practical software solutions.
+I'm a **B.Tech Computer Science (Artificial Intelligence)** student who enjoys building software that solves practical problems using **Full Stack Development**, **Computer Vision**, and **Artificial Intelligence**.
 
-My experience includes developing **MERN stack applications**, building **responsive user interfaces**, designing **REST APIs**, and working on **computer vision projects using YOLO and OpenCV**.
+I like developing applications where AI is used to make complex information easier to understand and more useful for everyday users.
 
-- 💻 Full Stack Development
-- 👁️ Computer Vision
+- 💻 Full Stack (MERN) Development
+- 👁️ Computer Vision with YOLO & OpenCV
+- 🤖 AI-powered Applications
 - ⚡ REST API Development
-- 🚀 Building practical applications
+- 🚀 Always exploring better software architecture
 
 ---
 
-## Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-`Python` `JavaScript` `Java` `C`
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java,c"/>
+</p>
 
 ### Frontend
 
-`React` `Tailwind CSS` `HTML` `CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+</p>
 
 ### Backend
 
-`Node.js` `Express.js` `REST APIs`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
 ### Database
 
-`MongoDB`
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
 
-### Computer Vision
+### AI & Computer Vision
 
-`YOLO` `OpenCV`
+<p>
 
-### Libraries
+`YOLO` • `OpenCV` • `NumPy` • `Pandas`
 
-`NumPy` `Pandas`
+</p>
 
 ### Tools
 
-`Git` `GitHub` `Netlify` `Vercel`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify"/>
+
+</p>
 
 ---
 
-## Experience
+# 🚀 Featured Projects
 
-### Frontend Developer Intern • Viruj Health LLP
+## 🚨 Smart CCTV
 
-- Built core pages of a Next.js application.
-- Converted Figma designs into reusable components.
-- Developed responsive user interfaces.
-- Worked in an Agile development team.
+An intelligent surveillance platform that uses **YOLO** and **OpenCV** to detect suspicious activities from CCTV feeds in real time.
 
----
+### Highlights
 
-## Projects
-
-### 🚨 Smart CCTV
-
-Illegal Activity Detection System using **YOLO** and **OpenCV**.
-
-**Features**
-- Real-time video processing
-- Object detection
-- Edge-based preprocessing
-- Cloud-accessible monitoring interface
+- 🎥 Real-time video processing
+- 🔍 Object detection using YOLO
+- ⚡ Edge-based preprocessing for improved efficiency
+- 🌐 Cloud-accessible monitoring dashboard
+- 📢 Intelligent alert generation
+- 🏭 Designed to evolve into a modular threat detection platform for different industries
 
 **Tech**
+
 `Python` `YOLO` `OpenCV` `React`
 
 ---
 
-### ❤️ HealthyBe
+## ❤️ HealthyBe
 
-Frontend for a health monitoring dashboard.
+An **AI-powered Personal Health Record (PHR) platform** that centralizes medical information and transforms health records into meaningful insights.
 
-**Features**
-- Medical report dashboard
-- Daily health check-ins
-- Responsive UI
-- Reusable React components
+### Highlights
+
+- 📄 Securely stores medical reports, prescriptions, and medical history
+- 🤖 AI analyzes medical documents and extracts meaningful metadata
+- 📊 Visualizes health trends to help users better understand their health over time
+- 🩺 Shareable health dashboard enables doctors to quickly review a patient's history
+- 📁 Keeps all medical records organized in one secure place
+- 🔐 Authentication and secure data management
+- 🌐 Built as a scalable full-stack MERN application
 
 **Tech**
-`React` `Tailwind CSS` `JavaScript`
+
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Python`
 
 ---
 
-## Currently Working On
+# 🌱 Currently Working On
 
-- Smart CCTV Illegal Activity Detection
-- HealthyBe Health Dashboard
-- Improving Computer Vision applications
+- 🚨 Expanding Smart CCTV into a modular AI-powered threat detection platform
+- ❤️ Enhancing HealthyBe with advanced AI-driven medical document understanding
+- 📚 Learning advanced Computer Vision and scalable backend architecture
 
 ---
 
-## GitHub Stats
+# 📈 GitHub Statistics
 
-<p align="center">
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh7714&show_icons=true&theme=transparent&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh7714&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-## GitHub Streak
+# 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=harsh7714&theme=transparent&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-## Activity Graph
+# 📊 Contribution Graph
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh7714&theme=github-compact&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-## Connect
+# 🐍 Contribution Snake
 
-🌐 Portfolio  
-https://dev-harsh.netlify.app/
+<div align="center">
 
-💻 GitHub  
-https://github.com/harsh7714
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh7714/harsh7714/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/harsh7714/harsh7714/output/github-contribution-grid-snake.svg">
+</picture>
 
-💼 LinkedIn  
-https://linkedin.com/in/harsh-gupta-589826289
+</div>
+
+---
+
+# 🌐 Connect
+
+<p align="left">
+
+🌍 **Portfolio**  
+<a href="https://dev-harsh.netlify.app/">dev-harsh.netlify.app</a>
+
+💻 **GitHub**  
+<a href="https://github.com/harsh7714">github.com/harsh7714</a>
+
+💼 **LinkedIn**  
+<a href="https://linkedin.com/in/harsh-gupta-589826289">linkedin.com/in/harsh-gupta-589826289</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-*"Learning by building."*
+### 💡 *Building software that makes technology more practical, accessible, and intelligent.*
 
 </div>
