@@ -12,11 +12,23 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,react,tailwind,nodejs,express,mongodb,git,github,vscode,linux,vercel,netlify" />
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,c" />
 </p>
 
-<p align="center">
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+**AI & Computer Vision**
+<p>
   <code>YOLO</code> • <code>OpenCV</code> • <code>NumPy</code> • <code>Pandas</code> • <code>REST APIs</code>
 </p>
 
