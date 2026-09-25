@@ -2,11 +2,15 @@
 
 # Harsh Raj Gupta
 
-### Full Stack Developer • Computer Vision • AI Applications
+### Full Stack Developer • AI & Computer Vision Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+AI-powered+Applications;Computer+Vision+with+YOLO+%26+OpenCV;Learning.+Building.+Improving."/>
+<p align="center">
+  <a href="https://dev-harsh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/harsh-gupta-589826289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/harsh7714"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh7714&style=flat-square&color=0e75b6" alt="Profile Views"/>
 </p>
 
@@ -14,135 +18,26 @@
 
 ---
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science (Artificial Intelligence)** student who enjoys building software that solves practical problems using **Full Stack Development**, **Computer Vision**, and **Artificial Intelligence**.
-
-I like developing applications where AI is used to make complex information easier to understand and more useful for everyday users.
-
-- 💻 Full Stack (MERN) Development
-- 👁️ Computer Vision with YOLO & OpenCV
-- 🤖 AI-powered Applications
-- ⚡ REST API Development
-- 🚀 Always exploring better software architecture
+B.Tech Computer Science (AI) student building full-stack applications with integrated computer vision and machine learning.
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Core Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,java,c"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-### AI & Computer Vision
-
-<p>
-
-`YOLO` • `OpenCV` • `NumPy` • `Pandas`
-
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify"/>
-
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,java,c" height="30"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="30"/> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="30"/> |
+| **AI & Vision** | `YOLO` • `OpenCV` • `NumPy` • `Pandas` • `REST APIs` |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify" height="30"/> |
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚨 Smart CCTV
-
-An intelligent surveillance platform that uses **YOLO** and **OpenCV** to detect suspicious activities from CCTV feeds in real time.
-
-### Highlights
-
-- 🎥 Real-time video processing
-- 🔍 Object detection using YOLO
-- ⚡ Edge-based preprocessing for improved efficiency
-- 🌐 Cloud-accessible monitoring dashboard
-- 📢 Intelligent alert generation
-- 🏭 Designed to evolve into a modular threat detection platform for different industries
-
-**Tech**
-
-`Python` `YOLO` `OpenCV` `React`
-
----
-
-## ❤️ HealthyBe
-
-An **AI-powered Personal Health Record (PHR) platform** that centralizes medical information and transforms health records into meaningful insights.
-
-### Highlights
-
-- 📄 Securely stores medical reports, prescriptions, and medical history
-- 🤖 AI analyzes medical documents and extracts meaningful metadata
-- 📊 Visualizes health trends to help users better understand their health over time
-- 🩺 Shareable health dashboard enables doctors to quickly review a patient's history
-- 📁 Keeps all medical records organized in one secure place
-- 🔐 Authentication and secure data management
-- 🌐 Built as a scalable full-stack MERN application
-
-**Tech**
-
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Python`
-
----
-
-
-# 🔥 GitHub Streak
+### 📊 Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=harsh7714&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-
-# 🌐 Connect
-
-<p align="left">
-
-🌍 **Portfolio**  
-<a href="https://dev-harsh.netlify.app/">dev-harsh.netlify.app</a>
-
-💻 **GitHub**  
-<a href="https://github.com/harsh7714">github.com/harsh7714</a>
-
-💼 **LinkedIn**  
-<a href="https://linkedin.com/in/harsh-gupta-589826289">linkedin.com/in/harsh-gupta-589826289</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 *Building software that makes technology more practical, accessible, and intelligent.*
-
+  <img src="https://streak-stats.demolab.com?user=harsh7714&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </div>
